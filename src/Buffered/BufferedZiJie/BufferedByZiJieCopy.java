@@ -1,4 +1,4 @@
-package Buffered.Bufferedchar;
+package Buffered.BufferedZiJie;
 
 import close.CloseUtils;
 
