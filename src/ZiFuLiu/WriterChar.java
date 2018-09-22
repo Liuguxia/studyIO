@@ -22,6 +22,7 @@ public class WriterChar {
                     "萁在釜下燃，豆在釜中泣。\n" +
                     "本自同根生，相煎何太急？";
             wr.write(str);
+            wr.flush();
 
             /*
                 在控制台打印出来（此步可以无有）

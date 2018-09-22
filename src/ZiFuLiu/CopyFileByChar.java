@@ -30,6 +30,7 @@ public class CopyFileByChar {
                 String str = new String(flush,0,len);
                 System.out.println(str);
             }
+            wtriter.flush();
         } catch (Exception e) {
             e.printStackTrace();
         }finally {
